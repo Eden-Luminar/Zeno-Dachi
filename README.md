@@ -3,6 +3,9 @@
 This is only backup repo of Kohya Trainer (by gits: /kohya-ss/sd-scripts/ and /Linaqruf/kohya-trainer/), I have no permisions for it.
 So please use repo of right owners (please don't use my repo) : /kohya-ss/sd-scripts and /Linaqruf/kohya-trainer!
 
+   1. Github Repository for [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts).
+   2. Github Repository for [Linaqruf/kohya-trainer](https://github.com/Linaqruf/kohya-trainer).
+
 Github Repository for [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) colab notebook implementation
 | Notebook Name | Description | Link | V14 |
 | --- | --- | --- | --- |
