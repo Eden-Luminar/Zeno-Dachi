@@ -2,6 +2,7 @@
 
 This is only backup repo of Kohya Trainer (by gits: /kohya-ss/sd-scripts/ and /Linaqruf/kohya-trainer/), I have no permisions for it.
 So please use repo of right owners (please don't use my repo) : /kohya-ss/sd-scripts and /Linaqruf/kohya-trainer!
+(It is not forks from above right owners, so future changes from /kohya-ss and /Linaqruf would not make any changes on my backup repo, please don't use it for any reason that is not allowed by me and permissions of /kohya-ss and /Linaqruf)
 
    1. Github Repository for [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts).
    2. Github Repository for [Linaqruf/kohya-trainer](https://github.com/Linaqruf/kohya-trainer).
