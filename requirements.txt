@@ -33,3 +33,7 @@ lion-pytorch==0.0.6
 lycoris-lora==0.1.4
 # for kohya_ss library
 .
+#Add 12.05.2024 for fixing error dependencies
+
+jax==0.4.20
+jaxlib==0.4.20
